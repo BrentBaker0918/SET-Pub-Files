@@ -1,3 +1,7 @@
+> © 2025 Brent Baker  
+> Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+> This work may be shared and adapted non-commercially, with attribution and the same license.
+
 # SET Theory — Nuclear Structure Rules  
 **Author:** Brent Baker  
 **Last updated:** 2025-07-18  
